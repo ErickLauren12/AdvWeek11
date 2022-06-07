@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AdvanceNativeProject/AdvWeek11/app/src/main/res/layout/fragment_student_detail.xml" value="0.3528645833333333" />
+        <entry key="..\:/AdvanceNativeProject/AdvWeek11/app/src/main/res/layout/fragment_student_list.xml" value="0.16979166666666667" />
+        <entry key="..\:/AdvanceNativeProject/AdvWeek11/app/src/main/res/layout/student_list_item.xml" value="0.2" />
         <entry key="..\:/AdvanceNativeProject/AdvWeek4/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/AdvanceNativeProject/AdvWeek4/app/src/main/res/layout/fragment_student_detail.xml" value="0.4" />
         <entry key="..\:/AdvanceNativeProject/AdvWeek4/app/src/main/res/layout/fragment_student_list.xml" value="0.17708333333333334" />
@@ -10,8 +13,10 @@
         <entry key="..\:/AdvanceNativeProject/AdvWeek5/app/src/main/res/layout/fragment_student_detail.xml" value="0.25407608695652173" />
         <entry key="..\:/AdvanceNativeProject/AdvWeek5/app/src/main/res/layout/fragment_student_list.xml" value="0.17604166666666668" />
         <entry key="..\:/AdvanceNativeProject/AdvWeek5/app/src/main/res/layout/student_list_item.xml" value="0.4" />
+        <entry key="..\:/AdvanceNativeProject/AdvWeek6/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.1235" />
         <entry key="..\:/AdvanceNativeProject/AdvWeek6/app/src/main/res/layout/fragment_student_detail.xml" value="0.264" />
         <entry key="..\:/AdvanceNativeProject/AdvWeek6/app/src/main/res/layout/student_list_item.xml" value="0.6" />
+        <entry key="..\:/AdvanceNativeProject/AdvWeek7/app/src/main/res/layout/fragment_student_detail.xml" value="0.4" />
       </map>
     </option>
   </component>
